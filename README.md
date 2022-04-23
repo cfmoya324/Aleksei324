@@ -1,6 +1,6 @@
 ### Hi there
 
-I'm just a guy who likes to develop software and webpages, play games and play bass a little. I like to tinker with *Linux* and open source in general, I like to change distros a lot; I would like to collaborate on open source projects. Currently I'm using *Visual Studio Codium*.
+I'm just a guy who likes to develop software and webpages, play games and play bass a little; I like to tinker with *Linux* and open source in general, and I'm changing distros a lot. I would like to collaborate on open source projects.
 
 I'm currently learning *Flutter* and I'm interested about *Rust*; I'll be working on *Numfinity* and my personal webpage. My favourite language right now is *Python*.
 
@@ -9,6 +9,8 @@ I'm currently learning *Flutter* and I'm interested about *Rust*; I'll be workin
 - Java
 - React
 - SQL
+
+Currently using *Visual Studio Codium*.
 
 Feel free to contact me if you want to talk, collaborate or correct me on something.
 
