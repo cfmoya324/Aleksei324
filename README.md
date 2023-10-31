@@ -2,7 +2,7 @@
 
 I'm just a guy who likes to develop software and webapps, play games and listen to music; I like to tinker with *Linux* and open source in general. I can speak Spanish and English.
 
-I'm currently learning about *Vite* and I'll be working on my personal webpage; my favourite language at the moment is *Python*. Feel free to contact me if you want to talk, collaborate or correct me on something.
+I'm currently learning about *Go* (maybe *Rust*) and I'll be working on my personal webpage; my favourite language at the moment is *Python*. Feel free to contact me if you want to talk, collaborate or correct me on something.
 
 ---
 
@@ -16,9 +16,9 @@ I'm currently learning about *Vite* and I'll be working on my personal webpage; 
 
 ### Currently using
 
-- **Editor:** Visual Studio Code
-- **OS:** Fedora Kinoite
-- **Shell:** zsh
+- **Editor:** Visual Studio Code (hopefully [Fleet](https://www.jetbrains.com/fleet/) soon)
+- **OS:** [Linux Fedora Kinoite](https://fedoraproject.org/kinoite/)
+- **Shell:** [Fish](https://fishshell.com/)
 
 ---
 
@@ -28,7 +28,7 @@ A personal webpage I did using React. You can enter via these links:
 
 **Webpage:** https://aleksei324.github.io/webpage
 
-**Code:** https://github.com/Aleksei324/webpage
+**Code repository:** https://github.com/Aleksei324/webpage
 
 <!--
 **Aleksei324/Aleksei324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
