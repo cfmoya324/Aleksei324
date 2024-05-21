@@ -1,14 +1,14 @@
 ### Hi there
 
-I'm just a guy who likes to develop software and webapps, play games and listen to music; I like to tinker with *Linux* and open source in general. I can speak Spanish and English.
+I'm just a guy who likes to develop software, to play videogames, to draw and listen to music; I speak Spanish and English.
 
-I'm currently learning about *Go* (maybe *Rust*) and I'll be working on my personal webpage; my favourite language at the moment is *Python*. Feel free to contact me if you want to talk, collaborate or correct me on something.
+I'm currently learning about *Go* (maybe *Rust, Elixir* or *Ruby* next) and I'll be focusing a lot about learning cybersecurity; my favourite language at the moment is *Go*. Feel free to contact me if you want to talk, collaborate or correct me on something.
 
 ---
 
 ### I have knowledge in technologies like:
 
-[![My Skills](https://skillicons.dev/icons?i=react,py,java,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,go,rust,py,ruby,elixir,godot,postgres,flutter,bash,react)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksei324&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -17,7 +17,7 @@ I'm currently learning about *Go* (maybe *Rust*) and I'll be working on my perso
 ### Currently using
 
 - **Editor:** Visual Studio Code (hopefully [Fleet](https://www.jetbrains.com/fleet/) soon)
-- **OS:** [Linux Fedora Kinoite](https://fedoraproject.org/kinoite/)
+- **OS:** [Linux Opensuse Slowroll](https://www.opensuse.org) [KDE Plasma](https://kde.org/plasma-desktop/)
 - **Shell:** [Fish](https://fishshell.com/)
 
 ---
@@ -29,6 +29,10 @@ A personal webpage I did using React. You can enter via these links:
 **Webpage:** https://aleksei324.github.io/webpage
 
 **Code repository:** https://github.com/Aleksei324/webpage
+
+---
+
+*"Find something to believe in, and find it for yourself. When you do, pass it on to the future."*
 
 <!--
 **Aleksei324/Aleksei324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
