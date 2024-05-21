@@ -1,14 +1,12 @@
 ### Hi there
 
-I'm just a guy who likes to develop software, to play videogames, to draw and listen to music; I speak Spanish and English.
-
-I'm currently learning about *Go* (maybe *Rust, Elixir* or *Ruby* next) and I'll be focusing a lot about learning cybersecurity; my favourite language at the moment is *Go*. Feel free to contact me if you want to talk, collaborate or correct me on something.
+I'm just a guy who likes to develop software, play videogames, draw and listen to music; I speak Spanish and English. I'm currently learning about *Go* (maybe *Rust*, *Elixir* or *Ruby* next) and I'll be focusing about learning cybersecurity; *Go* is my favourite language at the moment. Feel free to contact me if you want to talk, collaborate or correct me on something.
 
 ---
 
-### I have knowledge in technologies like:
+### I have some knowledge in technologies like:
 
-[![My Skills](https://skillicons.dev/icons?i=git,go,rust,py,ruby,elixir,godot,postgres,flutter,bash,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,go,rust,py,ruby,elixir,godot,postgres,figma,kali,bash,flutter,react,stackoverflow&perline=10)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksei324&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -16,9 +14,9 @@ I'm currently learning about *Go* (maybe *Rust, Elixir* or *Ruby* next) and I'll
 
 ### Currently using
 
-- **Editor:** Visual Studio Code (hopefully [Fleet](https://www.jetbrains.com/fleet/) soon)
-- **OS:** [Linux Opensuse Slowroll](https://www.opensuse.org) [KDE Plasma](https://kde.org/plasma-desktop/)
-- **Shell:** [Fish](https://fishshell.com/)
+- **Code editor:** Visual Studio Code (hopefully [Fleet](https://www.jetbrains.com/fleet/) soon)
+- **Operative system:** [Opensuse Slowroll](https://www.opensuse.org) with [KDE Plasma](https://kde.org/plasma-desktop/)
+- **Terminal shell:** [Fish](https://fishshell.com/)
 
 ---
 
