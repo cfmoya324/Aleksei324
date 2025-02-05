@@ -15,7 +15,7 @@ I'm just a guy who likes to develop software, play videogames, draw and listen t
 ### Currently using
 
 - **Code editor:** Visual Studio Code (hopefully [Fleet](https://www.jetbrains.com/fleet/) soon)
-- **Operative system:** [Opensuse Slowroll](https://www.opensuse.org) with [KDE Plasma](https://kde.org/plasma-desktop/)
+- **Operative system:** [Aurora](https://getaurora.dev/en) (based on Fedora) with [KDE Plasma](https://kde.org/plasma-desktop/)
 - **Terminal shell:** [Fish](https://fishshell.com/)
 
 ---
