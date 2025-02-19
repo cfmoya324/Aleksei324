@@ -1,14 +1,14 @@
 ### Hi there
 
-I'm just a guy who likes to develop software, play videogames, draw and listen to music; I speak Spanish and English. I'm currently learning about *Go* (maybe *Rust*, *Elixir* or *Ruby* next) and I'll be focusing about learning cybersecurity; *Go* is my favourite language at the moment. Feel free to contact me if you want to talk, collaborate or correct me on something.
+I'm just a guy who likes to develop software, play videogames, draw and listen to music; I speak Spanish and English. I'm currently learning about *Go* (maybe *Elixir*, *Ruby* or *Rust* next) and I'll be focusing about learning cybersecurity; *Go* is my favourite language at the moment. Feel free to contact me if you want to talk, collaborate or correct me on something.
 
 ---
 
 ### I have some knowledge in technologies like:
 
-[![My Skills](https://skillicons.dev/icons?i=git,go,rust,py,ruby,elixir,godot,postgres,figma,kali,bash,flutter,react,stackoverflow&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,go,rust,py,ruby,elixir,godot,postgres,figma,kali,bash,linux,kali,flutter,react,stackoverflow&perline=10)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksei324&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfmoya324&theme=dracula&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -24,9 +24,9 @@ I'm just a guy who likes to develop software, play videogames, draw and listen t
 
 A personal webpage I did using React. You can enter via these links:
 
-**Webpage:** https://aleksei324.github.io/webpage
+**Webpage:** [LINK](https://cfmoya324.github.io/webpage)
 
-**Code repository:** https://github.com/Aleksei324/webpage
+**Code repository:** [LINK](https://github.com/cfmoya324/webpage)
 
 ---
 
