@@ -6,7 +6,7 @@ I'm just a guy who likes to develop software, play videogames, draw and listen t
 
 ### I have some knowledge in technologies like:
 
-[![My Skills](https://skillicons.dev/icons?i=git,go,rust,py,ruby,elixir,godot,postgres,figma,kali,bash,linux,kali,flutter,react,stackoverflow&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,go,rust,py,ruby,elixir,godot,postgres,figma,bash,linux,kali,flutter,react,stackoverflow&perline=10)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfmoya324&theme=dracula&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
